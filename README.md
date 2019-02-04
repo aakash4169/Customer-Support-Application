@@ -3,6 +3,7 @@ Repository for Customer support Application using Java
 
 ITCS 6162 Software System Design and Implementation.
 Collaborators:-
-        1. Aakash Pradeep Kulkarni
-        2. Janani Arunachalam.
-        3. Ved Paranjape.
+       <br> 1. Aakash Pradeep Kulkarni
+        <br>2. Janani Arunachalam.
+        <br>3. Ved Paranjape.
+        <br>4. Pragna. 
